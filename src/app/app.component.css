@@ -1,0 +1,26 @@
+h3,h4,ul{
+    font-family: Roboto, sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-size: 0.875rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    line-height: 2.25rem;
+    text-decoration: none;
+}
+
+h3{
+    font-size: 1.7rem;
+}
+
+h4{
+    font-size: 1.2rem;
+}
+
+ul{
+    list-style: none;
+}
+
+button, .wrapper, h3{
+    margin-left: 3rem;
+}
